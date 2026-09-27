@@ -1,0 +1,23 @@
+h1 {
+  font-weight: 600;
+}
+
+.land {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 1000;
+  font-family: "Source Serif 4", serif;
+}
+
+button {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+}
+
+
